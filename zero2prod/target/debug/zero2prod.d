@@ -1,0 +1,1 @@
+/Users/sivajayaprakash/Desktop/Software/RustProjects/zero2prod/target/debug/zero2prod: /Users/sivajayaprakash/Desktop/Software/RustProjects/zero2prod/src/lib.rs /Users/sivajayaprakash/Desktop/Software/RustProjects/zero2prod/src/main.rs

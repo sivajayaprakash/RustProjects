@@ -1,0 +1,11 @@
+/Users/sivajayaprakash/Desktop/Software/RustProjects/zero2prod/target/debug/deps/url-9d5f87e97c55462c.rmeta: /Users/sivajayaprakash/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.3.1/src/lib.rs /Users/sivajayaprakash/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.3.1/src/host.rs /Users/sivajayaprakash/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.3.1/src/origin.rs /Users/sivajayaprakash/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.3.1/src/parser.rs /Users/sivajayaprakash/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.3.1/src/path_segments.rs /Users/sivajayaprakash/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.3.1/src/slicing.rs /Users/sivajayaprakash/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.3.1/src/quirks.rs
+
+/Users/sivajayaprakash/Desktop/Software/RustProjects/zero2prod/target/debug/deps/url-9d5f87e97c55462c.d: /Users/sivajayaprakash/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.3.1/src/lib.rs /Users/sivajayaprakash/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.3.1/src/host.rs /Users/sivajayaprakash/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.3.1/src/origin.rs /Users/sivajayaprakash/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.3.1/src/parser.rs /Users/sivajayaprakash/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.3.1/src/path_segments.rs /Users/sivajayaprakash/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.3.1/src/slicing.rs /Users/sivajayaprakash/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.3.1/src/quirks.rs
+
+/Users/sivajayaprakash/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.3.1/src/lib.rs:
+/Users/sivajayaprakash/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.3.1/src/host.rs:
+/Users/sivajayaprakash/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.3.1/src/origin.rs:
+/Users/sivajayaprakash/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.3.1/src/parser.rs:
+/Users/sivajayaprakash/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.3.1/src/path_segments.rs:
+/Users/sivajayaprakash/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.3.1/src/slicing.rs:
+/Users/sivajayaprakash/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.3.1/src/quirks.rs:
