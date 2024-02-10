@@ -1,0 +1,5 @@
+{
+    "name": "HAL",
+    "age": 42,
+    "hobbies": ["floating", "chilling", "writing Rust"]
+}
